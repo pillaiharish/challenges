@@ -1,2 +1,2 @@
 # challenges
-Submission of online challenges.
+Submission of online data science challenges.
